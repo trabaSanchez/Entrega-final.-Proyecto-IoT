@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MAX30102EFD+T
+#
+DEF MAX30102EFD+T U 0 40 Y Y 1 L N
+F0 "U" -400 539 50 H V L BNN
+F1 "MAX30102EFD+T" -400 -657 50 H V L BNN
+F2 "XDCR_MAX30101EFD+" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "MAX30102EFD+T" 0 0 50 H I L BNN "MP"
+F5 "None" 0 0 50 H I L BNN "PRICE"
+F6 "OLGA-14 Maxim" 0 0 50 H I L BNN "PACKAGE"
+F7 "Maxim Integrated" 0 0 50 H I L BNN "MF"
+F8 "Max30102efd+t" 0 0 50 H I L BNN "DESCRIPTION"
+F9 "Unavailable" 0 0 50 H I L BNN "AVAILABILITY"
+DRAW
+S -400 -500 400 500 0 0 16 f
+X ~INT 13 -600 100 200 R 40 40 0 0 I 
+X SCL 2 -600 0 200 R 40 40 0 0 I C
+X SDA 3 -600 -100 200 R 40 40 0 0 B 
+X VDD 11 600 400 200 L 40 40 0 0 W 
+X VLED+ 9 600 200 200 L 40 40 0 0 W 
+X VLED+ 10 600 200 200 L 40 40 0 0 W 
+X PGND 4 600 -300 200 L 40 40 0 0 W 
+X GND 12 600 -400 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

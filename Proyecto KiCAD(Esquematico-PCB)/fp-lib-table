@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name ST-TF-003A)(type KiCad)(uri "${KIPRJMOD}/simbolos descargados/ST-TF-003A")(options "")(descr ""))
+  (lib (name BQ24075RGTR)(type KiCad)(uri "${KIPRJMOD}/simbolos descargados/BQ24075RGTR")(options "")(descr ""))
+  (lib (name CD4050BD)(type KiCad)(uri "${KIPRJMOD}/simbolos descargados/CD4050BD")(options "")(descr ""))
+  (lib (name ESP32-WROOM-32)(type KiCad)(uri "${KIPRJMOD}/simbolos descargados/ESP32-WROOM-32")(options "")(descr ""))
+  (lib (name SS-52400-003)(type KiCad)(uri "${KIPRJMOD}/simbolos descargados/SS-52400-003")(options "")(descr ""))
+  (lib (name USB4085-GF-A_REVA)(type KiCad)(uri "${KIPRJMOD}/simbolos descargados/USB4085-GF-A_REVA")(options "")(descr ""))
+  (lib (name BAT54TW-7-F)(type KiCad)(uri "C:/Users/Leonardo/Desktop/Cosas U/IoT/iot/HelIoT/simbolos descargados/BAT54TW-7-F")(options "")(descr ""))
+)

@@ -1,0 +1,119 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 5 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 1300 1200 0    50   Output ~ 0
+RX
+Text HLabel 1300 1300 0    50   Input ~ 0
+TX
+Text HLabel 1300 1450 0    50   BiDi ~ 0
+GND
+$Comp
+L power:GND #PWR0117
+U 1 1 5FA390E3
+P 3800 1800
+F 0 "#PWR0117" H 3800 1550 50  0001 C CNN
+F 1 "GND" H 3805 1627 50  0000 C CNN
+F 2 "" H 3800 1800 50  0001 C CNN
+F 3 "" H 3800 1800 50  0001 C CNN
+	1    3800 1800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3800 1950 3800 1800
+$Comp
+L power:+3V8 #PWR0118
+U 1 1 5FA44AE6
+P 4050 1800
+F 0 "#PWR0118" H 4050 1650 50  0001 C CNN
+F 1 "+3V8" H 4065 1973 50  0000 C CNN
+F 2 "" H 4050 1800 50  0001 C CNN
+F 3 "" H 4050 1800 50  0001 C CNN
+	1    4050 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 2350 4050 2350
+Text GLabel 3750 2050 2    50   Input ~ 0
+RXSIM
+Text GLabel 3750 2150 2    50   Input ~ 0
+TXSIM
+Wire Wire Line
+	3400 2150 3750 2150
+Wire Wire Line
+	3400 2050 3750 2050
+Wire Wire Line
+	3400 1950 3800 1950
+$Comp
+L HelIoT-rescue:SIM800L-MyLibrary SIM800L1
+U 1 1 5FA3558A
+P 3150 2200
+AR Path="/5FA3558A" Ref="SIM800L1"  Part="1" 
+AR Path="/5FA7E809/5FA3558A" Ref="SIM800L1"  Part="1" 
+F 0 "SIM800L1" H 3105 2665 50  0000 C CNN
+F 1 "SIM800L" H 3105 2574 50  0000 C CNN
+F 2 "ESP32-WROOM-32:SIM800L1" H 3350 2450 50  0001 C CNN
+F 3 "" H 3350 2450 50  0001 C CNN
+	1    3150 2200
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2850 1950
+NoConn ~ 2850 2050
+NoConn ~ 2850 2150
+NoConn ~ 2850 2250
+NoConn ~ 2850 2350
+NoConn ~ 2850 2450
+NoConn ~ 3400 2250
+NoConn ~ 3400 2450
+$Comp
+L power:GND #PWR0131
+U 1 1 5FA4AD91
+P 1600 1450
+F 0 "#PWR0131" H 1600 1200 50  0001 C CNN
+F 1 "GND" V 1605 1322 50  0000 R CNN
+F 2 "" H 1600 1450 50  0001 C CNN
+F 3 "" H 1600 1450 50  0001 C CNN
+	1    1600 1450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1300 1450 1600 1450
+Wire Wire Line
+	1300 1300 1550 1300
+Wire Wire Line
+	1300 1200 1550 1200
+Text GLabel 1550 1200 2    50   Input ~ 0
+TXSIM
+Text GLabel 1550 1300 2    50   Input ~ 0
+RXSIM
+Text HLabel 1300 1000 0    50   Input ~ 0
+D3.8VD
+$Comp
+L power:+3V8 #PWR0132
+U 1 1 5FABB0C3
+P 1650 850
+F 0 "#PWR0132" H 1650 700 50  0001 C CNN
+F 1 "+3V8" H 1665 1023 50  0000 C CNN
+F 2 "" H 1650 850 50  0001 C CNN
+F 3 "" H 1650 850 50  0001 C CNN
+	1    1650 850 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 1000 1650 1000
+Wire Wire Line
+	4050 1800 4050 2350
+Wire Wire Line
+	1650 850  1650 1000
+$EndSCHEMATC

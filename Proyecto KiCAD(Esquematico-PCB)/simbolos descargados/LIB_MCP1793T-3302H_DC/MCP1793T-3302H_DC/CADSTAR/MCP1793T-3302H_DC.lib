@@ -1,0 +1,18 @@
+.MCP1793T-3302H_DC :1 ;MICROCHIP - MCP1793T-3302H/DC - LDO, FIXED, 3.3V, 0.1A, -40 TO 150DEG C
+SOT127P706X180-6N
+*STM IC
+*NGS
+*PLB 1="'SHDN'" 2="VIN" 3="GND_1" 4="VOUT" 5="NC" 6="GND_2"
+*MXP 6
+*DFN MCP1793T-3302H_DC
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP1793T-3302H/DC)
+~!Arrow Part Number (MCP1793T-3302H/DC)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mcp1793t-3302hdc/microchip-technology)
+~!Mouser Part Number (579-MCP1793T-3302HDC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1793T-3302H-DC?qs=mAH9sUMRCttybKAxA2OiLw%3D%3D)
+~!Link Datasheet (http://ww1.microchip.com/downloads/en/DeviceDoc/MCP1792-Family-Data-Sheet-DS20006229A.pdf)
+~!Height (1.8mm)
+~!3D_Model (MCP1793T-3302H_DC)
+MCP1793T-3302H_DC
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

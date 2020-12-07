@@ -1,0 +1,18 @@
+.MP28164GD-P :1 ;Switching Voltage Regulators Hi Eff Sngl Inductor Buck-Boost Converter
+MP28164GDP
+*STM IC
+*NGS
+*PLB 1="EN" 2="MODE/SYNC" 3="PG" 4="VCC" 5="AGND" 6="FB" 7="VOUT" 8="SW2" 9="PGND" 10="SW1" 11="VIN"
+*MXP 11
+*DFN MP28164GD-P
+~!Manufacturer_Name (Monolithic Power Systems (MPS))
+~!Manufacturer_Part_Number (MP28164GD-P)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Part Number (946-MP28164GD-P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP28164GD-P?qs=BHWkRorfSmXVYcyyqwr4xg%3D%3D)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/MP28164GD-P.pdf)
+~!Height (1mm)
+~!3D_Model (MP28164GD-P)
+MP28164GD-P
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

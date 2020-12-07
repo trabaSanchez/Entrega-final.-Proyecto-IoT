@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MP28164GD_P'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Monolithic Power Systems (MPS)", "MP28164GD-P" (!) = "", "MP28164GDP", "Other", "", "", "946-MP28164GD-P", "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP28164GD-P?qs=BHWkRorfSmXVYcyyqwr4xg%3D%3D", "Switching Voltage Regulators Hi Eff Sngl Inductor Buck-Boost Converter", "https://componentsearchengine.com/Datasheets/1/MP28164GD-P.pdf", "1 mm"
+END_PART
+
+END.

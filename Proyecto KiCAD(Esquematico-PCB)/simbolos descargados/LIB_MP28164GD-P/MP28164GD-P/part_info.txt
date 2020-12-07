@@ -1,0 +1,9 @@
+Manufacturer=Monolithic Power Systems (MPS)
+PartNumber=MP28164GD-P
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=11
+Version=1.5
+Released=2019-10-24 17:02:18
+Downloaded=2020-12-02 22:55:06
+3D=Y

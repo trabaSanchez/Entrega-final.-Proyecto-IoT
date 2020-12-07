@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1793T-3302H_DC
+D MICROCHIP - MCP1793T-3302H/DC - LDO, FIXED, 3.3V, 0.1A, -40 TO 150DEG C
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP1792-Family-Data-Sheet-DS20006229A.pdf
+$ENDCMP
+#
+#End Doc Library

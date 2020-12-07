@@ -1,0 +1,10 @@
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-F_Cu.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-B_Cu.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-F_Paste.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-B_Paste.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-F_SilkS.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-B_SilkS.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-F_Mask.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-B_Mask.gbr" created.
+Plot file "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-Edge_Cuts.gbr" created.
+Crear archivo de trabajo Gerber "C:\Users\Leonardo\Desktop\Cosas U\IA\HELIOT_JCI-COMM_AUDIO\HELIOT_JCI-COMM_AUDIO\Gerber\HelIoT-job.gbrjob"

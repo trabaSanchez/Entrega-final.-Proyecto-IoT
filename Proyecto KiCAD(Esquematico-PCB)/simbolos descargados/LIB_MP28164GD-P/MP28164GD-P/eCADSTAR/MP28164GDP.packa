@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MP28164GD-P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-24-17:02:18)
+    (mountForm default
+        (footprintRef "MP28164GDP")
+        (spec "System")
+    )
+)

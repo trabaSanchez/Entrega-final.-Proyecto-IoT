@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BQ24075RGTR)(type Legacy)(uri ${KIPRJMOD}/BQ24075RGTR/BQ24075RGTR.lib)(options "")(descr ""))
+  (lib (name HelIoT-rescue)(type Legacy)(uri ${KIPRJMOD}/HelIoT-rescue.lib)(options "")(descr ""))
+)

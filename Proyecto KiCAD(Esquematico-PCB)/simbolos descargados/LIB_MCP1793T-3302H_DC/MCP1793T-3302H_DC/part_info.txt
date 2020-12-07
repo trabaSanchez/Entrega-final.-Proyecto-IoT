@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP1793T-3302H/DC
+PartCategory=Integrated Circuit
+PackageCategory=SOT223 (5-Pin)
+PinCount=6
+Version=1.1
+Released=2020-01-10 05:57:57
+Downloaded=2020-12-02 23:13:17
+3D=Y
